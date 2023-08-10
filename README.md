@@ -3,23 +3,23 @@ What is Regression Analysis?
 
   Regression analysis is a predictive modelling technique that analyzes the relation between the target or dependent variable and independent variable in a dataset. The different types of regression analysis techniques get used when the target and independent variables show a linear or non-linear relationship between each other, and the target variable contains continuous values. The regression technique gets used mainly to determine the predictor strength, forecast trend, time series, and in case of cause & effect relation. 
 
-Types of Regression Analysis Techniques
+* Types of Regression Analysis Techniques
   There are many types of regression analysis techniques, and the use of each method depends upon the number of factors. These factors include the type of target variable, shape of the regression line, and the number of independent variables. 
 
-  > Linear Regression:
+> Linear Regression:
      
     Linear regression is one of the most basic types of regression in machine learning. The linear regression model consists of a predictor variable and a dependent variable related linearly to each other. In case the data involves more than one independent variable, then linear regression is called multiple linear regression models. 
     
     There are different types of linear regression. The two major types of linear regression are simple linear regression and multiple linear regression.
 
  
-> Simple linear regression can be used:
+  > Simple linear regression can be used:
 
   A simple linear regression model is susceptible to outliers. Therefore, it should not be used in case of big size data.
   * To find the intensity of dependency between two variables. Such as the rate of carbon emission and global warming. 
   * To find the value of the dependent variable on an explicit value of the independent variable. For example, finding the amount of increase in atmospheric temperature with a certain amount of carbon dioxide emission.    
 
-  Multiple linear regression can be used:
+   > Multiple linear regression can be used:
 
   In multiple linear regression, a relationship is established between two or more independent variables and the corresponding dependent variables.
   * To estimate how strongly two or more independent variables influence the single dependent variable. Such as how location, time, condition, and area can influence the price of a property.
