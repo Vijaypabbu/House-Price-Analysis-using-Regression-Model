@@ -12,17 +12,16 @@ Types of Regression Analysis Techniques
     
     There are different types of linear regression. The two major types of linear regression are simple linear regression and multiple linear regression.
 
- a simple linear regression model is susceptible to outliers. Therefore, it should not be used in case of big size data.
  
 > Simple linear regression can be used:
 
+  A simple linear regression model is susceptible to outliers. Therefore, it should not be used in case of big size data.
   * To find the intensity of dependency between two variables. Such as the rate of carbon emission and global warming. 
   * To find the value of the dependent variable on an explicit value of the independent variable. For example, finding the amount of increase in atmospheric temperature with a certain amount of carbon dioxide emission.    
 
-In multiple linear regression, a relationship is established between two or more independent variables and the corresponding dependent variables.
-
   Multiple linear regression can be used:
 
+  In multiple linear regression, a relationship is established between two or more independent variables and the corresponding dependent variables.
   * To estimate how strongly two or more independent variables influence the single dependent variable. Such as how location, time, condition, and area can influence the price of a property.
   * To find the value of the dependent variables at a definite condition of all the independent variables. For example, finding the price of a property located at a certain place, with a specific area and its condition.
 
