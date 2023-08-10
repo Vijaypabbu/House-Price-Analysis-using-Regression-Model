@@ -11,7 +11,7 @@ What is Regression Analysis?
 
  Linear regression is one of the most basic types of regression in machine learning. The linear regression model consists of a predictor variable and a dependent variable related linearly to each other. In case the data involves more than one independent variable, then linear regression is called multiple linear regression models. 
     
-    There are different types of linear regression. The two major types of linear regression are simple linear regression and multiple linear regression.
+ There are different types of linear regression. The two major types of linear regression are simple linear regression and multiple linear regression.
 
  
   > Simple linear regression can be used:
